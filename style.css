@@ -1,0 +1,64 @@
+
+/*
+ Theme Name:   jose-theme
+ Theme URI:    http://yourwebsite.com/twentyfourteen-child/
+ Description:  My first child theme, based on Twenty Fourteen
+ Author:       Daniel Pataki
+ Author URI:   http://danielpataki.com
+ Template:     _tk-master
+ Version:      1.0.0
+ Tags:         black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready, responsive-layout, infinite-scroll, post-slider, design, food, journal, magazine, news, photography, portfolio, clean, contemporary, dark, elegant, modern, professional, sophisticated
+ Text Domain:  twenty-fourteen-child
+*/
+
+
+
+
+body{
+	background-color: yellow; 
+}
+a{
+	display:;
+}
+
+#masthead > div > div > div > div > h1 > a{
+	display:none;
+	
+}
+
+
+/*supposedly the header*/
+#masthead{
+	background-image:url(https://i.ytimg.com/vi/75VzljdUE-s/maxresdefault.jpg);
+}
+
+
+#main-menu{
+	float:right;
+}
+
+#content{
+	padding:0px;
+}
+
+#post-5{
+	height:
+}
+#post-5 > div > div.jumbotron{
+	height:504px;
+	background-image:url(https://i.ytimg.com/vi/75VzljdUE-s/maxresdefault.jpg);
+	background-size:100px 100px;
+	background-repeat: no-repeat;
+
+}
+#post-5 > header > h1{
+	display:none;
+
+}
+
+#post-5 > div > div.jumbotron > h1{
+	text-align:center;
+	color:white;
+}
+
+
